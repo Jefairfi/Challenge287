@@ -1,0 +1,8 @@
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Challenge287\Challenge287.tests\bin\Debug\Challenge287.tests.dll
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Challenge287\Challenge287.tests\bin\Debug\Challenge287.tests.pdb
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Challenge287\Challenge287.tests\bin\Debug\Challenge287.exe
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Challenge287\Challenge287.tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Challenge287\Challenge287.tests\bin\Debug\Challenge287.pdb
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Challenge287\Challenge287.tests\obj\Debug\Challenge287.tests.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Challenge287\Challenge287.tests\obj\Debug\Challenge287.tests.dll
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\Challenge287\Challenge287.tests\obj\Debug\Challenge287.tests.pdb

@@ -1,0 +1,6 @@
+c:\users\jack\documents\visual studio 2015\Projects\Challenge287\Challenge287\bin\Debug\Challenge287.exe.config
+c:\users\jack\documents\visual studio 2015\Projects\Challenge287\Challenge287\bin\Debug\Challenge287.exe
+c:\users\jack\documents\visual studio 2015\Projects\Challenge287\Challenge287\bin\Debug\Challenge287.pdb
+c:\users\jack\documents\visual studio 2015\Projects\Challenge287\Challenge287\obj\Debug\Challenge287.csprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2015\Projects\Challenge287\Challenge287\obj\Debug\Challenge287.exe
+c:\users\jack\documents\visual studio 2015\Projects\Challenge287\Challenge287\obj\Debug\Challenge287.pdb
